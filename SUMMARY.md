@@ -9,7 +9,7 @@
 * [第四章](chapter-04.md)
 * [第五章](chapter-05.md)
 * [第六章](chapter-06.md)
-* [第七章](chapter-07s.md)
+* [第七章](chapter-07.md)
 * [第八章](chapter-08.md)
 * [第九章](chapter-09.md)
 * [第十章](chapter-10.md)
