@@ -1,7 +1,7 @@
 # Table of contents
 
 * [首页](README.md)
-* [译者序](a0.md)
+* [译者序](a-translator-forewords.md)
 * [前言](a0-preface.md)
 * [简介](a1-intro.md)
 * [第一章](chapter-01.md)
