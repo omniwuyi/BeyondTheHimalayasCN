@@ -2,8 +2,9 @@
 
 * [首页](README.md)
 * [译者序](a-translator-forewords.md)
-* [前言](a0-preface.md)
-* [简介](a1-intro.md)
+* [出版](a0-publisher.md)
+* [前言](a1-preface.md)
+* [简介](a2-intro.md)
 * [第一章](chapter-01.md)
 * [第二章](chapter-02.md)
 * [第三章](chapter-03.md)
