@@ -1,6 +1,6 @@
 # 简介
 
-![](.gitbook/assets/screen-shot-2020-05-02-at-2.26.41-pm.png)
+![&#x5730;&#x56FE;1: &#x5370;&#x5EA6;&#x3001;&#x5C3C;&#x6CCA;&#x5C14;&#x3001;&#x9521;&#x91D1;&#x90A6;&#x3001;&#x4E0D;&#x4E39;&#x548C;&#x897F;&#x85CF;](.gitbook/assets/screen-shot-2020-05-02-at-2.26.41-pm.png)
 
 在我另一本书《使用更高的力量》的简介里，我写了下面几句话：
 

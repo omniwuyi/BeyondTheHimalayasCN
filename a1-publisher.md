@@ -4,13 +4,15 @@
 
 新改版平装书由 MYSTICA PUBLICATIONS LTD 于2006年出版
 
-第三版发行于2011年
+第三版由 MYSTICA PUBLICATIONS LTD 于2011年出版
 
 中文译版由 Starseed Ltd. Omni 无一品牌于2020年出版
 
 ISBN
 
 Omni 无一，Starseed Ltd  
+[https://www.omnione.live](https://www.omnione.live/)  
+info@omnione.live  
 奥克兰，新西兰
 
 
