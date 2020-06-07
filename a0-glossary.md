@@ -10,6 +10,14 @@ God 直接翻译是神，但几乎所有人类都用神这个词描述自己无�
 
 **Conditioning &lt;&gt; 洗脑、条件反射**
 
-**Reality &lt;&gt; 实相**  
+**Reality &lt;&gt; 实相 / 真实**  
 大写的 Reality 指真真正正实际存在的，而非看上去、透过我们大脑、思绪折射出来的现实
+
+**Creator &lt;&gt; 造物主**
+
+**Mind &lt;&gt; 精神 / 头脑**
+
+**Spirit &lt;&gt; 灵魂**
+
+**Now &lt;&gt; 当下**
 
