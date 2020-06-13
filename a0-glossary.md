@@ -29,3 +29,5 @@ God 直接翻译是神，Divine 直译是神圣，Christ 直译是基督，但�
 **Intelligence &lt;&gt;  智慧**  
 大写的 Intelligence 指更高的智慧，并非小我的智慧，译文中会用引号如“智慧“表示。
 
+**Silence &lt;&gt; 宁静 / 平静**
+
