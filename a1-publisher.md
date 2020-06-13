@@ -6,7 +6,7 @@
 
 第三版由 MYSTICA PUBLICATIONS LTD 于2011年出版
 
-中文译版由 Starseed Ltd. Omni 无一品牌于2020年出版
+中文译版由 Starseed Ltd. Omni 无一 于2020年出版
 
 ISBN
 
