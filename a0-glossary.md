@@ -6,7 +6,8 @@
 **God / Divine / Christ &lt;&gt; 生命**  
 God 直接翻译是神，Divine 直译是神圣，Christ 直译是基督，但几乎所有人类都用神/神圣/基督这类词描述自己无法理解、超乎自己意识范畴的人事物的发生。书中作者意指浩瀚的生命本身，所以我直接翻译成生命，避免宗教误解。
 
-**Truth &lt;&gt; 真理 / 真谛 / 真相**
+**Truth &lt;&gt; 真理 / 真谛 / 真相**  
+大写的 Truth 指生命真理，译文中会用引号如“真理“表示
 
 **Conditioning &lt;&gt; 洗脑、条件反射**
 
@@ -24,4 +25,7 @@ God 直接翻译是神，Divine 直译是神圣，Christ 直译是基督，但�
 **Spirit &lt;&gt; 灵魂**
 
 **Now &lt;&gt; 当下**
+
+**Intelligence &lt;&gt;  智慧**  
+大写的 Intelligence 指更高的智慧，并非小我的智慧，译文中会用引号如“智慧“表示。
 
