@@ -1,6 +1,6 @@
 # 首页
 
-![](.gitbook/assets/cover.png)
+![](.gitbook/assets/chao-yue-xi-ma-la-ya-feng-mian-.png)
 
 
 
