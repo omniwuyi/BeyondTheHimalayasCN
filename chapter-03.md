@@ -1,5 +1,5 @@
 ---
-description: （未完成、为校对）
+description: （未完成、未校对）
 ---
 
 # 第三章
