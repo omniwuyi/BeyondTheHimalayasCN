@@ -1,18 +1,12 @@
 # 首页
 
-版权许可
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+![](.gitbook/assets/chao-yue-xi-ma-la-ya-feng-mian-.png)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International
-License][cc-by].
+版权许可 
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+Shield: [![](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-
-
-
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
