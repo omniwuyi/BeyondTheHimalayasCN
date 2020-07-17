@@ -42,3 +42,5 @@ God 直接翻译是神，Divine 直译是神圣，Christ 直译是基督，Creat
 **One &lt;&gt; 合一 / 唯一**  
 大写的 One 是指生命是合一、是唯一的，译文中会用引号如“合一“表示。
 
+**Ethereal Body / Astral Body** &lt;&gt; 以太体 / 光子体
+
