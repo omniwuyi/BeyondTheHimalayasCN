@@ -285,3 +285,5 @@ description: （未完成）
 【0】引用自圣经里的话  
 【\*】晒干的瘦肉条（羚羊，水牛等）。
 
+![](.gitbook/assets/di-tu-4.png)
+
