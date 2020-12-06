@@ -1,5 +1,5 @@
 ---
-description: (已完成，未校对）
+description: (已完成，已校对）
 ---
 
 # 第八章
