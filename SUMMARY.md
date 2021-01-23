@@ -2,6 +2,7 @@
 
 * [首页](README.md)
 * [出版](a1-publisher.md)
+* [系列书籍](xi-lie-shu-ji.md)
 * [译者序](a-translator-forewords.md)
 * [词汇表](a0-glossary.md)
 * [前言](a2-preface.md)
