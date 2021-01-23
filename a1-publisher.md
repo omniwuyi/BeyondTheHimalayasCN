@@ -6,11 +6,11 @@
 
 第三版由 MYSTICA PUBLICATIONS LTD 于2011年出版
 
-中文译版由 Omni 无一 于2020年出版
+中文译版由 Omni One 于2020年出版
 
 ISBN 978-0-473-55826-3
 
-Omni 无一  
+Omni One  
 [https://www.omnione.live](https://www.omnione.live/)  
 info@omnione.live  
 奥克兰，新西兰
