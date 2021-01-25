@@ -10,5 +10,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 [![](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-![](.gitbook/assets/chao-yue-xi-ma-la-ya-feng-mian-.png)
+![](.gitbook/assets/cover2.png)
 
