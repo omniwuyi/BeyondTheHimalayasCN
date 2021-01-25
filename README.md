@@ -12,7 +12,7 @@
 
 请关注 Omni One 微信公众号 **omniwuyi，通过“译者序言”一文进行打赏 🙏**
 
-![](.gitbook/assets/screen-shot-2021-01-25-at-5.13.45-pm.png)
+![](.gitbook/assets/screen-shot-2021-01-25-at-6.40.06-pm.png)
 
 ISBN 978-0-473-55825-3
 
