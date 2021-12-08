@@ -8,12 +8,10 @@
 
 中文译版由 Omni One 于2020年出版
 
-ISBN 978-0-473-55825-3
+ISBN 978-0-473-55826-0
 
-Omni One  
-[https://www.omnione.live](https://www.omnione.live/)  
-info@omnione.live  
+Omni One\
+[https://www.omnione.live](https://www.omnione.live)\
+info@omnione.live\
 奥克兰，新西兰
-
-
 
